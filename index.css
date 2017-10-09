@@ -1,0 +1,27 @@
+body{
+    background-color: olivedrab;
+}
+
+button { 
+    display:block;
+   
+   
+}
+
+h1 {
+    color: white;
+    line-height: 100px;
+}
+
+.dice {
+    height: 100px;
+    width: 100px;
+    background-color: black;
+    float: left;
+    margin: 10px;
+    border-radius: 20px;
+    color: white;
+    line-height: 100px;
+    text-align: center;
+    font-size: 26px;
+}
